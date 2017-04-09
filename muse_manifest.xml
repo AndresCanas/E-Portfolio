@@ -1,0 +1,63 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1491775900775">
+  <folder name="css">
+    <file name="site_global.css" crc="273364216"/>
+    <file name="index.css" crc="3776421497" ref="index"/>
+    <file name="iefonts_index.css" crc="131580397" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="desarrollo-del-departamento-de-compras-para-un-hospital-privado.pdf" crc="421144930" seo="true" mt="1488741398000"/>
+    <file name="estudio-de-colas-para-entrada-al-parqueo-de-autos-para-estudiantes-de-la-ulacit.pdf" crc="488629002" seo="true" mt="1489970056000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="webpro.js" crc="3770351119" ref="index"/>
+    <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
+    <file name="touchswipe.js" crc="3912873526" ref="index"/>
+    <file name="form_check.php" crc="3841221102" ref="index"/>
+    <file name="form_throttle.php" crc="4048049783" ref="index"/>
+    <file name="form_process.php" crc="3899230280" ref="index"/>
+    <file name="form-u1011.php" crc="4214688128" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="placeholder.jpg" crc="3807013573" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="linkedin-icon.png" crc="198762857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="aaeaaqaaaaaaaa0aaaaajdlmnjgwntazlwuyotgtndkzni05ndvjltk3ntfjnmjkzdizyw.jpg" crc="61777089" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="case.png" crc="320954353" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icon.png" crc="4129082871" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="skill.png" crc="275994893" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="supply-chain-infographic.jpg" crc="4040867840" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 487x569.jpg" crc="48275136" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="contact.png" crc="80087821" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="3988925272" seo="true" mt="1491775591589" redirect="true"/>
+</manifest>
