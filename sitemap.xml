@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://musefree.com/index.html</loc>
+    <lastmod>2017-04-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://musefree.com/images/linkedin-icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/aaeaaqaaaaaaaa0aaaaajdlmnjgwntazlwuyotgtndkzni05ndvjltk3ntfjnmjkzdizyw.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/case.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/skill.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/contact.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/supply-chain-infographic.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://musefree.com/images/imagen%20pegada%20487x569.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://musefree.com/assets/desarrollo-del-departamento-de-compras-para-un-hospital-privado.pdf</loc>
+    <lastmod>2017-03-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://musefree.com/assets/estudio-de-colas-para-entrada-al-parqueo-de-autos-para-estudiantes-de-la-ulacit.pdf</loc>
+    <lastmod>2017-03-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
