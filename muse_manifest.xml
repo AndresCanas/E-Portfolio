@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="E-portfolio.com" resolutions="1x" timestamp="1493055180879">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="E-portfolio.com" resolutions="1x" timestamp="1493064280495">
   <folder name="css">
     <file name="site_global.css" crc="273364216"/>
-    <file name="index.css" crc="105218102" ref="index"/>
+    <file name="index.css" crc="3908918006" ref="index"/>
     <file name="iefonts_index.css" crc="141206843" ref="index"/>
   </folder>
   <folder name="assets">
@@ -35,9 +35,6 @@
     <file name="linkedin-icon.png" crc="198762857" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="aaeaaqaaaaaaaa0aaaaajdlmnjgwntazlwuyotgtndkzni05ndvjltk3ntfjnmjkzdizyw.jpg" crc="61777089" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="case.png" crc="320954353" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -64,6 +61,9 @@
     <file name="contact.png" crc="80087821" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="whatsapp image 2017-04-24 at 122105 pm-crop-u1283.jpg" crc="157979611" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="319028007" seo="true" mt="1493054801806" redirect="true"/>
+  <file name="index.html" crc="3842521890" seo="true" mt="1493064255661" redirect="true"/>
 </manifest>
